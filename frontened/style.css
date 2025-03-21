@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+}
+
+.card {
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 1.8rem;
+    color: #343a40;
+}
+
+.fs-5 {
+    font-weight: bold;
+    color: #495057;
+}
+
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+}
+
+.btn {
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-info:hover {
+    background-color: #117a8b;
+}
+
+p {
+    font-size: 0.9rem;
+}
