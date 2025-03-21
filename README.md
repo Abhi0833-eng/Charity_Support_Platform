@@ -21,3 +21,6 @@ The vision of this project is to create a transparent and decentralized charity 
 ## Contract Address
 0x81d3e4c3962f61aB4906Eb34e63a8e21A7a624F9
 ![image](https://github.com/user-attachments/assets/8f528010-3072-4dbd-bfb6-81fc345c647b)
+
+## frontened
+![image](https://github.com/user-attachments/assets/c14c286f-fee3-40ad-ba4f-c5d1e3263c6f)
